@@ -1,34 +1,14 @@
-# spacer-helloroman
+# Spacer app
 
-## Project setup
-```
-yarn install
-```
+This app uses NASA image API to fetch images and display them after passing search query.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+### Youtube course from helloroman
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+* youtube link: x
 
-### Run your tests
-```
-yarn run test
-```
+### How to start?
 
-### Lints and fixes files
 ```
-yarn run lint
+yarn
+yar serve
 ```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
