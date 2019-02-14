@@ -4,11 +4,11 @@ This app uses NASA image API to fetch images and display them after passing sear
 
 ### Youtube course from helloroman
 
-* youtube link: x
+* youtube link: https://www.youtube.com/watch?v=PmlipEkFSOk
 
 ### How to start?
 
 ```
 yarn
-yar serve
+yarn serve
 ```
